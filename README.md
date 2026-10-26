@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aurinia Pharmaceuticals is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.auriniapharma.com/
+Aurinia Pharmaceuticals Inc. is a biopharmaceutical company focused on delivering therapies to people living with autoimmune diseases with high unmet medical needs. It develops innovative treatments targeting the underlying causes of autoimmune conditions, aiming to improve patient outcomes and quality of life through advanced science and clinical research.
+
+**Areas:** Biopharma · Autoimmune · Therapeutics · ClinicalResearch · Biotechnology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.auriniapharma.com/)
+- [Terms of service](https://www.auriniapharma.com/policies/terms-of-use)
+- [Privacy policy](https://www.auriniapharma.com/policies/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aurinia-pharmaceuticals/](https://apis.io/providers/aurinia-pharmaceuticals/).
